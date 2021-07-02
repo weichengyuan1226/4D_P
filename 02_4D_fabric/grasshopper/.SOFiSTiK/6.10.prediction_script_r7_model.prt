@@ -1,0 +1,39 @@
+   *** Start: Program Calculation - Version 2020-9.0.1616   *** Start: Program AQUA   
+   SOFiSTiK 2020-9.0.1616    AQUA   - GENERAL SECTIONS
+   Output on file 6.10.prediction_script_r7_model.plb
+   Project data base 6.10.prediction_script_r7.cdb -     3. access
+   TIME NEEDED         0, TOTAL         0
+   DATE       2021-06-11, 23:22:33
+
+   *** Stop : Program AQUA   *** Start: Program SOFIMSHC   
+   SOFiSTiK 2020-9.0.1616    SOFIMSHC - GEOMETRY + STRUCT
+   Output on file 6.10.prediction_script_r7_model.plb
+   Project data base 6.10.prediction_script_r7.cdb -     4. access
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1180 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1209 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1232 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1259 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1815 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   +++++ warning no.   392 in program initializeFace
+   The dimensions of structural area 1850 are in the range of the geometric
+   tolerance of TOLG=     0.010. The tolerance should be better reduced.
+   Analysis and decomposition of structural model:
+   CPU-time [s]:    1.12,   geom. tolerance [m]:   0.010
+   TIME NEEDED         9, TOTAL         9
+   DATE       2021-06-11, 23:22:42
+   
+   
+   
+    +++++    0 errors and    6 warnings +++++
+
+   *** Stop : Program SOFIMSHC   *** End of Calculation!

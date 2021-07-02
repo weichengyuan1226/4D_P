@@ -1,0 +1,15 @@
++PROG AQUA
+$ Dat : C:\...\6.10.prediction_script_r7_model.dat  (#001)          6/11/2021
+$ Job : DESKTOP-8HSESRC:000069                                           11:22
+HEAD
+PAGE UNII 0
+PAGE FIRS 1  UNII 0  FORM 0
+ECHO SECT YES
+ECHO MAT YES
+MAT  1 E 0.90E6 EY 1.250E6  G 0.090E6 MUE 0.0 GAM 17.5 TITL "Basic Membrane"
+$  Attention: local reference system will be distorted in a ASE-SPEI-run
+NMAT 1 MEMB
+MATE 2 E 1280 MUE 0.360000 G 1287 K 1280 GAM 12.10000 TITL "PLA"
+NMAT 2 LINE
+
+END
