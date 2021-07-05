@@ -1,0 +1,3 @@
+[submodule "01_slicer"]
+	path = 01_slicer
+	url = https://github.com/compas-dev/compas_slicer.git
