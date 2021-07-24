@@ -1,0 +1,16 @@
+ply
+format ascii 1.0
+comment pointcloud saved from Realsense Viewer
+element vertex 0
+property float32 x
+property float32 y
+property float32 z
+property float32 nx
+property float32 ny
+property float32 nz
+property uchar red
+property uchar green
+property uchar blue
+element face 0
+property list uchar int vertex_indices
+end_header
