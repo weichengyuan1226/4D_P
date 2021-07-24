@@ -1,0 +1,27 @@
+###############################
+IMPORTANT INFO FOR SCANNING 
+###############################
+
+Lidar scanning can be a tricky business, but here are some keys to getting good scans of the 4D printed objects.
+
+1:  Never scan when there is sunlight
+    Both ambient and direct sunlight cause noise issues when scanning and should be avoided at all costs.
+    When stiching scans together, if there was sunlight in any or all of the scan, the output will be bumpy and unusable.
+
+2:  Always scan from at least 30cm away from the object
+    Set up your scan positions so that there is at least 30cm of distance between the lidar TCP and the object
+    This will allow the camera to operate in its intended range and will produce cleaner scans.
+    You know you are too close to an object when you start to see "hole punching" or an abnormal hole in the scan directly underneath the Lidar scanner
+
+3: Play with the settings
+    The settings in the control and post processing panel for the L515 are imporant sliders that will change the outcome of your scan
+    There are two pre-made settings "4D_Small_Scans" for objects less than 40mm and "4D_Large_Scans" larger than 40mm that need stitching
+
+4:Stiching Considerations
+    For larger objects you will need to stich multiple scans together 
+    in order to do this you will have to set up your L515 TCP in GH/Rhino so you know each scan position relative to the world XY
+    when importing a new scan, it will automatically import to world XY, so with these new scan positions, you can import them into the right place for stitching
+
+5: More to come I am sure, but for now get to scanning!
+
+-Hamilton F
