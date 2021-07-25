@@ -7,31 +7,31 @@
       "extruder_toggle": false,
       "frame": {
          "point": [
-            159.75,
-            159.75,
+            -109.44300000000001,
+            -240.0,
             10.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002043,
+            -0.913168453211973,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.913168453211973,
+            0.40758235494002043,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119729,
+         0.4075823549400204,
          0.0
       ],
       "point": [
-         159.75,
-         159.75,
+         -109.44300000000001,
+         -240.0,
          10.0
       ],
       "up_vector": [
@@ -50,31 +50,31 @@
       "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            159.75,
+            -109.44300000000001,
+            -240.0,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002043,
+            -0.913168453211973,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.913168453211973,
+            0.40758235494002043,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119729,
+         0.4075823549400204,
          0.0
       ],
       "point": [
-         159.75,
-         159.75,
+         -109.44300000000001,
+         -240.0,
          0.0
       ],
       "up_vector": [
@@ -83,41 +83,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 1.2
    },
    "2": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            -159.75,
+            -178.571,
+            -394.849,
             0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         159.75,
-         -159.75,
+         -178.571,
+         -394.849,
          0.0
       ],
       "up_vector": [
@@ -126,41 +126,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.2
    },
    "3": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 1.69585,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -159.75,
-            -159.75,
+            -247.7,
+            -240.0,
             0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
-            0.0
+            0.4075823549400204,
+            0.913168453211973,
+            -0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            0.913168453211973,
+            -0.4075823549400204,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         0.9131684532119729,
+         -0.4075823549400203,
          0.0
       ],
       "point": [
-         -159.75,
-         -159.75,
+         -247.7,
+         -240.0,
          0.0
       ],
       "up_vector": [
@@ -173,37 +173,37 @@
    },
    "4": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 1.69585,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -159.75,
-            159.75,
+            -245.396,
+            -234.838,
             0.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
-            0.0
+            0.40764820593557144,
+            0.9131390585214884,
+            -0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            0.9131390585214884,
+            -0.40764820593557144,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         0.9131390585214882,
+         -0.4076482059355714,
          0.0
       ],
       "point": [
-         -159.75,
-         159.75,
+         -245.396,
+         -234.838,
          0.0
       ],
       "up_vector": [
@@ -219,34 +219,34 @@
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            159.75,
+            -178.571,
+            -85.15100000000001,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
+            0.40772985348117163,
+            0.9131026046289773,
             -0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131026046289773,
+            -0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131026046289773,
+         -0.40772985348117163,
          0.0
       ],
       "point": [
-         159.75,
-         159.75,
+         -178.571,
+         -85.15100000000001,
          0.0
       ],
       "up_vector": [
@@ -259,38 +259,38 @@
    },
    "6": {
       "attributes": {},
-      "blend_radius": 1.37886,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": false,
       "frame": {
          "point": [
-            159.75,
-            159.75,
-            10.0
+            -109.44300000000001,
+            -240.0,
+            0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002043,
+            -0.913168453211973,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.913168453211973,
+            0.40758235494002043,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119729,
+         0.4075823549400204,
          0.0
       ],
       "point": [
-         159.75,
-         159.75,
-         10.0
+         -109.44300000000001,
+         -240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -298,41 +298,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.7
    },
    "7": {
       "attributes": {},
-      "blend_radius": 1.37886,
+      "blend_radius": 3.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": false,
       "frame": {
          "point": [
-            156.5,
-            156.5,
+            -109.44300000000001,
+            -240.0,
             10.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002043,
+            -0.913168453211973,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.913168453211973,
+            0.40758235494002043,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119729,
+         0.4075823549400204,
          0.0
       ],
       "point": [
-         156.5,
-         156.5,
+         -109.44300000000001,
+         -240.0,
          10.0
       ],
       "up_vector": [
@@ -345,37 +345,80 @@
    },
    "8": {
       "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -109.44300000000001,
+            80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40758235494002226,
+            -0.9131684532119722,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119722,
+            0.40758235494002226,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119722,
+         0.40758235494002226,
+         0.0
+      ],
+      "point": [
+         -109.44300000000001,
+         80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "9": {
+      "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            156.5,
+            -109.44300000000001,
+            80.0,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002226,
+            -0.9131684532119722,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         156.5,
-         156.5,
+         -109.44300000000001,
+         80.0,
          0.0
       ],
       "up_vector": [
@@ -384,84 +427,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
-   },
-   "9": {
-      "attributes": {},
-      "blend_radius": 10.0,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": true,
-      "frame": {
-         "point": [
-            156.5,
-            -156.5,
-            0.0
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ],
-         "yaxis": [
-            -1.0,
-            0.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         -1.0,
-         0.0,
-         0.0
-      ],
-      "point": [
-         156.5,
-         -156.5,
-         0.0
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "10": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -156.5,
-            -156.5,
+            -178.571,
+            -74.84899999999999,
             0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         -156.5,
-         -156.5,
+         -178.571,
+         -74.84899999999999,
          0.0
       ],
       "up_vector": [
@@ -470,41 +470,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.2
    },
    "11": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 1.69585,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -156.5,
-            156.5,
+            -245.396,
+            74.83800000000002,
             0.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
+            -0.40758235494002226,
+            0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         -156.5,
-         156.5,
+         -245.396,
+         74.83800000000002,
          0.0
       ],
       "up_vector": [
@@ -517,37 +517,80 @@
    },
    "12": {
       "attributes": {},
-      "blend_radius": 0.0,
+      "blend_radius": 1.69585,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            156.5,
+            -247.7,
+            80.0,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
+            0.4075823549400222,
+            0.9131684532119722,
             -0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131684532119722,
+            -0.4075823549400222,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131684532119722,
+         -0.4075823549400222,
          0.0
       ],
       "point": [
-         156.5,
-         156.5,
+         -247.7,
+         80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "13": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -178.571,
+            234.84900000000005,
+            0.0
+         ],
+         "xaxis": [
+            0.4077298534811679,
+            0.913102604628979,
+            -0.0
+         ],
+         "yaxis": [
+            0.913102604628979,
+            -0.4077298534811679,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131026046289789,
+         -0.40772985348116786,
+         0.0
+      ],
+      "point": [
+         -178.571,
+         234.84900000000005,
          0.0
       ],
       "up_vector": [
@@ -558,125 +601,39 @@
       "velocity": 13.0,
       "wait_time": 0.2
    },
-   "13": {
-      "attributes": {},
-      "blend_radius": 1.37886,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": false,
-      "frame": {
-         "point": [
-            156.5,
-            156.5,
-            10.0
-         ],
-         "xaxis": [
-            1.0,
-            0.0,
-            -0.0
-         ],
-         "yaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         0.0,
-         -1.0,
-         0.0
-      ],
-      "point": [
-         156.5,
-         156.5,
-         10.0
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
    "14": {
-      "attributes": {},
-      "blend_radius": 1.37886,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": false,
-      "frame": {
-         "point": [
-            153.25,
-            153.25,
-            10.0
-         ],
-         "xaxis": [
-            1.0,
-            0.0,
-            -0.0
-         ],
-         "yaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         0.0,
-         -1.0,
-         0.0
-      ],
-      "point": [
-         153.25,
-         153.25,
-         10.0
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
-   "15": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            153.25,
-            153.25,
+            -109.44300000000001,
+            80.0,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002226,
+            -0.9131684532119722,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         153.25,
-         153.25,
+         -109.44300000000001,
+         80.0,
          0.0
       ],
       "up_vector": [
@@ -685,42 +642,85 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.7
+   },
+   "15": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -109.44300000000001,
+            80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40758235494002226,
+            -0.9131684532119722,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119722,
+            0.40758235494002226,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119722,
+         0.40758235494002226,
+         0.0
+      ],
+      "point": [
+         -109.44300000000001,
+         80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
    },
    "16": {
       "attributes": {},
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            153.25,
-            -153.25,
-            0.0
+            -38.01400000000001,
+            -80.0,
+            10.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         153.25,
-         -153.25,
-         0.0
+         -38.01400000000001,
+         -80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -732,37 +732,37 @@
    },
    "17": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -153.25,
-            -153.25,
+            -38.01400000000001,
+            -80.0,
             0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         -153.25,
-         -153.25,
+         -38.01400000000001,
+         -80.0,
          0.0
       ],
       "up_vector": [
@@ -771,84 +771,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "18": {
-      "attributes": {},
-      "blend_radius": 10.0,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": true,
-      "frame": {
-         "point": [
-            -153.25,
-            153.25,
-            0.0
-         ],
-         "xaxis": [
-            0.0,
-            1.0,
-            0.0
-         ],
-         "yaxis": [
-            1.0,
-            -0.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         1.0,
-         0.0,
-         0.0
-      ],
-      "point": [
-         -153.25,
-         153.25,
-         0.0
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
-   "19": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            153.25,
+            -107.143,
+            -234.849,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002226,
+            0.9131684532119722,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         153.25,
-         153.25,
+         -107.143,
+         -234.849,
          0.0
       ],
       "up_vector": [
@@ -859,40 +816,83 @@
       "velocity": 13.0,
       "wait_time": 0.2
    },
-   "20": {
+   "19": {
       "attributes": {},
-      "blend_radius": 1.37886,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            153.25,
-            10.0
+            -176.272,
+            -80.0,
+            0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
+            0.40772985348117163,
+            0.9131026046289773,
             -0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131026046289773,
+            -0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131026046289773,
+         -0.40772985348117163,
          0.0
       ],
       "point": [
-         153.25,
-         153.25,
-         10.0
+         -176.272,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "20": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -144.012,
+            -7.737000000000023,
+            0.0
+         ],
+         "xaxis": [
+            0.40768903488534647,
+            0.9131208303583128,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131208303583128,
+            -0.40768903488534647,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131208303583128,
+         -0.40768903488534647,
+         0.0
+      ],
+      "point": [
+         -144.012,
+         -7.737000000000023,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -904,80 +904,37 @@
    },
    "21": {
       "attributes": {},
-      "blend_radius": 1.37886,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": false,
-      "frame": {
-         "point": [
-            150.0,
-            150.0,
-            10.0
-         ],
-         "xaxis": [
-            1.0,
-            0.0,
-            -0.0
-         ],
-         "yaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         0.0,
-         -1.0,
-         0.0
-      ],
-      "point": [
-         150.0,
-         150.0,
-         10.0
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
-   "22": {
-      "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            150.0,
-            150.0,
+            -107.143,
+            74.84899999999999,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
+            0.40758235494002226,
+            0.9131684532119722,
             -0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131684532119722,
+            -0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131684532119722,
+         -0.40758235494002226,
          0.0
       ],
       "point": [
-         150.0,
-         150.0,
+         -107.143,
+         74.84899999999999,
          0.0
       ],
       "up_vector": [
@@ -986,42 +943,85 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.2
    },
-   "23": {
+   "22": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            150.0,
-            -150.0,
+            -38.01400000000001,
+            -80.0,
             0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         150.0,
-         -150.0,
+         -38.01400000000001,
+         -80.0,
          0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "23": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -38.01400000000001,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40758235494002226,
+            -0.9131684532119722,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119722,
+            0.40758235494002226,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119722,
+         0.40758235494002226,
+         0.0
+      ],
+      "point": [
+         -38.01400000000001,
+         -80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1036,35 +1036,35 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -150.0,
-            -150.0,
-            0.0
+            -38.01400000000001,
+            240.0,
+            10.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40758235494001854,
+            -0.9131684532119738,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131684532119738,
+            0.40758235494001854,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131684532119738,
+         0.40758235494001854,
          0.0
       ],
       "point": [
-         -150.0,
-         -150.0,
-         0.0
+         -38.01400000000001,
+         240.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1076,37 +1076,37 @@
    },
    "25": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -150.0,
-            150.0,
+            -38.01400000000001,
+            240.0,
             0.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
+            -0.40758235494001854,
+            -0.9131684532119738,
             0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            -0.9131684532119738,
+            0.40758235494001854,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         -0.9131684532119738,
+         0.40758235494001854,
          0.0
       ],
       "point": [
-         -150.0,
-         150.0,
+         -38.01400000000001,
+         240.0,
          0.0
       ],
       "up_vector": [
@@ -1115,41 +1115,41 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "26": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            150.0,
-            150.0,
+            -107.143,
+            85.15100000000001,
             0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40758235494002226,
+            0.9131684532119722,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         150.0,
-         150.0,
+         -107.143,
+         85.15100000000001,
          0.0
       ],
       "up_vector": [
@@ -1162,38 +1162,38 @@
    },
    "27": {
       "attributes": {},
-      "blend_radius": 3.0,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            150.0,
-            150.0,
-            10.0
+            -144.012,
+            167.73699999999997,
+            0.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.4075823549400185,
+            0.9131684532119738,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            0.9131684532119738,
+            0.4075823549400185,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         0.9131684532119738,
+         0.4075823549400185,
          0.0
       ],
       "point": [
-         150.0,
-         150.0,
-         10.0
+         -144.012,
+         167.73699999999997,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1208,35 +1208,35 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            -86.01922475938981,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -176.272,
+            240.0,
             0.0
          ],
+         "xaxis": [
+            0.4077298534811679,
+            0.913102604628979,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.913102604628979,
+            -0.4077298534811679,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131026046289789,
+         -0.40772985348116786,
          0.0
       ],
       "point": [
-         159.75,
-         -86.01922475938981,
-         11.5
+         -176.272,
+         240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1254,32 +1254,32 @@
       "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            -86.01922475938981,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -107.143,
+            394.84900000000005,
             0.0
          ],
+         "xaxis": [
+            0.40758235494001854,
+            0.9131684532119738,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131684532119738,
+            -0.40758235494001854,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119738,
+         -0.40758235494001854,
          0.0
       ],
       "point": [
-         159.75,
-         -86.01922475938981,
-         1.5
+         -107.143,
+         394.84900000000005,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1287,42 +1287,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.2
    },
    "30": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            159.75,
-            -159.75,
-            1.5
+            -38.01400000000001,
+            240.0,
+            0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40758235494001854,
+            -0.9131684532119738,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131684532119738,
+            0.40758235494001854,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131684532119738,
+         0.40758235494001854,
          0.0
       ],
       "point": [
-         159.75,
-         -159.75,
-         1.5
+         -38.01400000000001,
+         240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1330,42 +1330,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.7
    },
    "31": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 3.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -159.75,
-            -159.75,
-            1.5
+            -38.01400000000001,
+            240.0,
+            10.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
+            -0.40758235494001854,
+            -0.9131684532119738,
             0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            -0.9131684532119738,
+            0.40758235494001854,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         -0.9131684532119738,
+         0.40758235494001854,
          0.0
       ],
       "point": [
-         -159.75,
-         -159.75,
-         1.5
+         -38.01400000000001,
+         240.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1380,35 +1380,35 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -159.75,
-            159.75,
-            1.5
+            33.41500000000002,
+            -240.0,
+            10.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40772985348116975,
+            -0.9131026046289781,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.9131026046289781,
+            0.40772985348116975,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.913102604628978,
+         0.4077298534811697,
          0.0
       ],
       "point": [
-         -159.75,
-         159.75,
-         1.5
+         33.41500000000002,
+         -240.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1420,38 +1420,38 @@
    },
    "33": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            159.75,
-            1.5
+            33.41500000000002,
+            -240.0,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40772985348116975,
+            -0.9131026046289781,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131026046289781,
+            0.40772985348116975,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.913102604628978,
+         0.4077298534811697,
          0.0
       ],
       "point": [
-         159.75,
-         159.75,
-         1.5
+         33.41500000000002,
+         -240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1459,42 +1459,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "34": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            -86.01922475938981,
-            1.5
+            -35.714,
+            -394.849,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         159.75,
-         -86.01922475938981,
-         1.5
+         -35.714,
+         -394.849,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1506,38 +1506,38 @@
    },
    "35": {
       "attributes": {},
-      "blend_radius": 1.10736,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            159.75,
-            -86.01922475938981,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -104.84299999999999,
+            -240.0,
             0.0
          ],
+         "xaxis": [
+            0.40758235494002043,
+            0.913168453211973,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.913168453211973,
+            -0.40758235494002043,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119729,
+         -0.4075823549400204,
          0.0
       ],
       "point": [
-         159.75,
-         -86.01922475938981,
-         11.5
+         -104.84299999999999,
+         -240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1549,38 +1549,38 @@
    },
    "36": {
       "attributes": {},
-      "blend_radius": 1.10736,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            -84.26922488165575,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -54.149,
+            -126.44400000000002,
             0.0
          ],
+         "xaxis": [
+            0.4076890348853486,
+            0.9131208303583119,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131208303583119,
+            -0.4076890348853486,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131208303583119,
+         -0.4076890348853486,
          0.0
       ],
       "point": [
-         156.5,
-         -84.26922488165575,
-         11.5
+         -54.149,
+         -126.44400000000002,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1598,32 +1598,32 @@
       "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            -84.26922488165575,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -35.714,
+            -85.15100000000001,
             0.0
          ],
+         "xaxis": [
+            0.40772985348117163,
+            0.9131026046289773,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131026046289773,
+            -0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131026046289773,
+         -0.40772985348117163,
          0.0
       ],
       "point": [
-         156.5,
-         -84.26922488165575,
-         1.5
+         -35.714,
+         -85.15100000000001,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1631,42 +1631,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.2
    },
    "38": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            156.5,
-            -156.5,
-            1.5
+            33.41500000000002,
+            -240.0,
+            0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40772985348116975,
+            -0.9131026046289781,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131026046289781,
+            0.40772985348116975,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.913102604628978,
+         0.4077298534811697,
          0.0
       ],
       "point": [
-         156.5,
-         -156.5,
-         1.5
+         33.41500000000002,
+         -240.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1674,42 +1674,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.7
    },
    "39": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 3.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -156.5,
-            -156.5,
-            1.5
+            33.41500000000002,
+            -240.0,
+            10.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
+            -0.40772985348116975,
+            -0.9131026046289781,
             0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            -0.9131026046289781,
+            0.40772985348116975,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         -0.913102604628978,
+         0.4077298534811697,
          0.0
       ],
       "point": [
-         -156.5,
-         -156.5,
-         1.5
+         33.41500000000002,
+         -240.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1724,35 +1724,35 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -156.5,
-            156.5,
-            1.5
+            33.41500000000002,
+            80.0,
+            10.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.40772985348117163,
+            -0.9131026046289773,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.9131026046289773,
+            0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131026046289773,
+         0.40772985348117163,
          0.0
       ],
       "point": [
-         -156.5,
-         156.5,
-         1.5
+         33.41500000000002,
+         80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -1764,38 +1764,38 @@
    },
    "41": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            156.5,
-            1.5
+            33.41500000000002,
+            80.0,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40772985348117163,
+            -0.9131026046289773,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131026046289773,
+            0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131026046289773,
+         0.40772985348117163,
          0.0
       ],
       "point": [
-         156.5,
-         156.5,
-         1.5
+         33.41500000000002,
+         80.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1803,42 +1803,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "42": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            -84.26922488165575,
-            1.5
+            -35.714,
+            -74.84899999999999,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            -0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         156.5,
-         -84.26922488165575,
-         1.5
+         -35.714,
+         -74.84899999999999,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1850,38 +1850,38 @@
    },
    "43": {
       "attributes": {},
-      "blend_radius": 1.10736,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            156.5,
-            -84.26922488165575,
-            11.5
+            -54.149,
+            -33.55599999999998,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494002226,
+            0.9131684532119722,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131684532119722,
+            0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119722,
+         0.40758235494002226,
          0.0
       ],
       "point": [
-         156.5,
-         -84.26922488165575,
-         11.5
+         -54.149,
+         -33.55599999999998,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1893,38 +1893,38 @@
    },
    "44": {
       "attributes": {},
-      "blend_radius": 1.10736,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            -82.51922500392168,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -104.84299999999999,
+            80.0,
             0.0
          ],
+         "xaxis": [
+            0.40758235494002226,
+            0.9131684532119722,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131684532119722,
+            -0.40758235494002226,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119722,
+         -0.40758235494002226,
          0.0
       ],
       "point": [
-         153.25,
-         -82.51922500392168,
-         11.5
+         -104.84299999999999,
+         80.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1942,32 +1942,32 @@
       "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            -82.51922500392168,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -35.714,
+            234.84900000000005,
             0.0
          ],
+         "xaxis": [
+            0.4077298534811679,
+            0.913102604628979,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.913102604628979,
+            -0.4077298534811679,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131026046289789,
+         -0.40772985348116786,
          0.0
       ],
       "point": [
-         153.25,
-         -82.51922500392168,
-         1.5
+         -35.714,
+         234.84900000000005,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -1975,42 +1975,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.2
    },
    "46": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            153.25,
-            -153.25,
-            1.5
+            33.41500000000002,
+            80.0,
+            0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.40772985348117163,
+            -0.9131026046289773,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131026046289773,
+            0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131026046289773,
+         0.40772985348117163,
          0.0
       ],
       "point": [
-         153.25,
-         -153.25,
-         1.5
+         33.41500000000002,
+         80.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2018,42 +2018,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 0.7
    },
    "47": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 3.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -153.25,
-            -153.25,
-            1.5
+            33.41500000000002,
+            80.0,
+            10.0
          ],
          "xaxis": [
-            0.0,
-            1.0,
+            -0.40772985348117163,
+            -0.9131026046289773,
             0.0
          ],
          "yaxis": [
-            1.0,
-            -0.0,
+            -0.9131026046289773,
+            0.40772985348117163,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         1.0,
-         0.0,
+         -0.9131026046289773,
+         0.40772985348117163,
          0.0
       ],
       "point": [
-         -153.25,
-         -153.25,
-         1.5
+         33.41500000000002,
+         80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -2068,35 +2068,35 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            -153.25,
-            153.25,
-            1.5
+            104.84300000000002,
+            -80.0,
+            10.0
          ],
          "xaxis": [
-            1.0,
-            0.0,
-            -0.0
+            -0.4075823549400264,
+            -0.9131684532119703,
+            0.0
          ],
          "yaxis": [
-            0.0,
-            -1.0,
+            -0.9131684532119703,
+            0.4075823549400264,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         -1.0,
+         -0.9131684532119703,
+         0.4075823549400264,
          0.0
       ],
       "point": [
-         -153.25,
-         153.25,
-         1.5
+         104.84300000000002,
+         -80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -2108,38 +2108,38 @@
    },
    "49": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            153.25,
-            1.5
+            104.84300000000002,
+            -80.0,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.4075823549400264,
+            -0.9131684532119703,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            -0.9131684532119703,
+            0.4075823549400264,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         -0.9131684532119703,
+         0.4075823549400264,
          0.0
       ],
       "point": [
-         153.25,
-         153.25,
-         1.5
+         104.84300000000002,
+         -80.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2147,42 +2147,42 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": null
+      "wait_time": 1.2
    },
    "50": {
       "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            -82.51922500392168,
-            1.5
+            35.714,
+            -234.849,
+            0.0
          ],
          "xaxis": [
-            0.0,
-            -1.0,
+            -0.40758235494001804,
+            0.913168453211974,
             0.0
          ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.913168453211974,
+            0.40758235494001804,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119739,
+         0.407582354940018,
          0.0
       ],
       "point": [
-         153.25,
-         -82.51922500392168,
-         1.5
+         35.714,
+         -234.849,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2194,38 +2194,38 @@
    },
    "51": {
       "attributes": {},
-      "blend_radius": 1.10736,
+      "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": false,
+      "extruder_toggle": true,
       "frame": {
          "point": [
-            153.25,
-            -82.51922500392168,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            -33.41499999999999,
+            -80.0,
             0.0
          ],
+         "xaxis": [
+            0.40772985348116747,
+            0.9131026046289792,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.9131026046289792,
+            -0.40772985348116747,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131026046289791,
+         -0.4077298534811674,
          0.0
       ],
       "point": [
-         153.25,
-         -82.51922500392168,
-         11.5
+         -33.41499999999999,
+         -80.0,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2237,81 +2237,38 @@
    },
    "52": {
       "attributes": {},
-      "blend_radius": 1.10736,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": false,
-      "frame": {
-         "point": [
-            150.0,
-            -80.76922512618762,
-            11.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ],
-         "yaxis": [
-            -1.0,
-            0.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         -1.0,
-         0.0,
-         0.0
-      ],
-      "point": [
-         150.0,
-         -80.76922512618762,
-         11.5
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
-   "53": {
-      "attributes": {},
       "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            150.0,
-            -80.76922512618762,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            35.714,
+            74.84899999999999,
             0.0
          ],
+         "xaxis": [
+            0.40758235494001804,
+            0.913168453211974,
+            -0.0
+         ],
          "yaxis": [
-            -1.0,
-            0.0,
+            0.913168453211974,
+            -0.40758235494001804,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
-         0.0,
+         0.9131684532119739,
+         -0.407582354940018,
          0.0
       ],
       "point": [
-         150.0,
-         -80.76922512618762,
-         1.5
+         35.714,
+         74.84899999999999,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2319,42 +2276,85 @@
          1.0
       ],
       "velocity": 13.0,
-      "wait_time": 0.4
+      "wait_time": 0.2
    },
-   "54": {
+   "53": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
-      "extruder_toggle": true,
+      "extruder_toggle": false,
       "frame": {
          "point": [
-            150.0,
-            -150.0,
-            1.5
+            104.84300000000002,
+            -80.0,
+            0.0
          ],
          "xaxis": [
-            -1.0,
-            0.0,
+            -0.4075823549400264,
+            -0.9131684532119703,
             0.0
          ],
          "yaxis": [
-            0.0,
-            1.0,
+            -0.9131684532119703,
+            0.4075823549400264,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         0.0,
-         1.0,
+         -0.9131684532119703,
+         0.4075823549400264,
          0.0
       ],
       "point": [
-         150.0,
-         -150.0,
-         1.5
+         104.84300000000002,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "54": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            104.84300000000002,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.4075823549400264,
+            -0.9131684532119703,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119703,
+            0.4075823549400264,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119703,
+         0.4075823549400264,
+         0.0
+      ],
+      "point": [
+         104.84300000000002,
+         -80.0,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -2369,12 +2369,1732 @@
       "blend_radius": 10.0,
       "closest_support_pt": null,
       "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            104.84300000000002,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.4075823549400227,
+            -0.9131684532119719,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119719,
+            0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119719,
+         0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         104.84300000000002,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "56": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -150.0,
-            -150.0,
-            1.5
+            104.84300000000002,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400227,
+            -0.9131684532119719,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119719,
+            0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119719,
+         0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         104.84300000000002,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "57": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            35.714,
+            85.15100000000001,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         35.714,
+         85.15100000000001,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "58": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -33.41499999999999,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            0.40772985348116375,
+            0.9131026046289809,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131026046289809,
+            -0.40772985348116375,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131026046289809,
+         -0.40772985348116375,
+         0.0
+      ],
+      "point": [
+         -33.41499999999999,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "59": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            35.714,
+            394.84900000000005,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400143,
+            0.9131684532119757,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119757,
+            -0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119757,
+         -0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         35.714,
+         394.84900000000005,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "60": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            104.84300000000002,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400227,
+            -0.9131684532119719,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119719,
+            0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119719,
+         0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         104.84300000000002,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "61": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            104.84300000000002,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.4075823549400227,
+            -0.9131684532119719,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119719,
+            0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119719,
+         0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         104.84300000000002,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "62": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            -240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40772985348116975,
+            -0.9131026046289781,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289781,
+            0.40772985348116975,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.913102604628978,
+         0.4077298534811697,
+         0.0
+      ],
+      "point": [
+         176.272,
+         -240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "63": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            176.272,
+            -240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40772985348116975,
+            -0.9131026046289781,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289781,
+            0.40772985348116975,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.913102604628978,
+         0.4077298534811697,
+         0.0
+      ],
+      "point": [
+         176.272,
+         -240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "64": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            107.14299999999997,
+            -394.849,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         107.14299999999997,
+         -394.849,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "65": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            38.01400000000001,
+            -240.0,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400162,
+            0.9131684532119749,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119749,
+            -0.4075823549400162,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119748,
+         -0.40758235494001616,
+         0.0
+      ],
+      "point": [
+         38.01400000000001,
+         -240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "66": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            88.70800000000003,
+            -126.44400000000002,
+            0.0
+         ],
+         "xaxis": [
+            0.4076890348853464,
+            0.9131208303583129,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131208303583129,
+            -0.4076890348853464,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131208303583129,
+         -0.4076890348853464,
+         0.0
+      ],
+      "point": [
+         88.70800000000003,
+         -126.44400000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "67": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            107.14299999999997,
+            -85.15100000000001,
+            0.0
+         ],
+         "xaxis": [
+            0.40758235494001804,
+            0.913168453211974,
+            -0.0
+         ],
+         "yaxis": [
+            0.913168453211974,
+            -0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119739,
+         -0.407582354940018,
+         0.0
+      ],
+      "point": [
+         107.14299999999997,
+         -85.15100000000001,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "68": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            -240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40772985348116975,
+            -0.9131026046289781,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289781,
+            0.40772985348116975,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.913102604628978,
+         0.4077298534811697,
+         0.0
+      ],
+      "point": [
+         176.272,
+         -240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "69": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            -240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40772985348116975,
+            -0.9131026046289781,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289781,
+            0.40772985348116975,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.913102604628978,
+         0.4077298534811697,
+         0.0
+      ],
+      "point": [
+         176.272,
+         -240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "70": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40772985348117163,
+            -0.9131026046289773,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289773,
+            0.40772985348117163,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131026046289773,
+         0.40772985348117163,
+         0.0
+      ],
+      "point": [
+         176.272,
+         80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "71": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            176.272,
+            80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40772985348117163,
+            -0.9131026046289773,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289773,
+            0.40772985348117163,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131026046289773,
+         0.40772985348117163,
+         0.0
+      ],
+      "point": [
+         176.272,
+         80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "72": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            107.14299999999997,
+            -74.84899999999999,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         107.14299999999997,
+         -74.84899999999999,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "73": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            88.70800000000003,
+            -33.55599999999998,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494002226,
+            0.9131684532119722,
+            0.0
+         ],
+         "yaxis": [
+            0.9131684532119722,
+            0.40758235494002226,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119722,
+         0.40758235494002226,
+         0.0
+      ],
+      "point": [
+         88.70800000000003,
+         -33.55599999999998,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "74": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            38.01400000000001,
+            80.0,
+            0.0
+         ],
+         "xaxis": [
+            0.40758235494001804,
+            0.913168453211974,
+            -0.0
+         ],
+         "yaxis": [
+            0.913168453211974,
+            -0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119739,
+         -0.407582354940018,
+         0.0
+      ],
+      "point": [
+         38.01400000000001,
+         80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "75": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            107.14299999999997,
+            234.84900000000005,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400143,
+            0.9131684532119757,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119757,
+            -0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119757,
+         -0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         107.14299999999997,
+         234.84900000000005,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "76": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40772985348117163,
+            -0.9131026046289773,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289773,
+            0.40772985348117163,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131026046289773,
+         0.40772985348117163,
+         0.0
+      ],
+      "point": [
+         176.272,
+         80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "77": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            176.272,
+            80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40772985348117163,
+            -0.9131026046289773,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131026046289773,
+            0.40772985348117163,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131026046289773,
+         0.40772985348117163,
+         0.0
+      ],
+      "point": [
+         176.272,
+         80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "78": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            -0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            -0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         247.7,
+         -80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "79": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.7,
+            -80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            -0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            -0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         247.7,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "80": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            178.57100000000003,
+            -234.849,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400264,
+            0.9131684532119703,
+            0.0
+         ],
+         "yaxis": [
+            0.9131684532119703,
+            0.4075823549400264,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119703,
+         0.4075823549400264,
+         0.0
+      ],
+      "point": [
+         178.57100000000003,
+         -234.849,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "81": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            109.44299999999998,
+            -80.0,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400264,
+            0.9131684532119703,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119703,
+            -0.4075823549400264,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119703,
+         -0.4075823549400264,
+         0.0
+      ],
+      "point": [
+         109.44299999999998,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "82": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            178.57100000000003,
+            74.84899999999999,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400264,
+            0.9131684532119703,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119703,
+            -0.4075823549400264,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119703,
+         -0.4075823549400264,
+         0.0
+      ],
+      "point": [
+         178.57100000000003,
+         74.84899999999999,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "83": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            -80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            -0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            -0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         247.7,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "84": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40758235494001804,
+            -0.913168453211974,
+            0.0
+         ],
+         "yaxis": [
+            -0.913168453211974,
+            0.40758235494001804,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119739,
+         0.407582354940018,
+         0.0
+      ],
+      "point": [
+         247.7,
+         -80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "85": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.4075823549400143,
+            -0.9131684532119757,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119757,
+            0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119757,
+         0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         247.7,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "86": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.7,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400143,
+            -0.9131684532119757,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119757,
+            0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119757,
+         0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         247.7,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "87": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            178.57100000000003,
+            85.15100000000001,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400264,
+            0.9131684532119703,
+            0.0
+         ],
+         "yaxis": [
+            0.9131684532119703,
+            0.4075823549400264,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119703,
+         0.4075823549400264,
+         0.0
+      ],
+      "point": [
+         178.57100000000003,
+         85.15100000000001,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "88": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            109.44299999999998,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400227,
+            0.9131684532119719,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119719,
+            -0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119719,
+         -0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         109.44299999999998,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "89": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            178.57100000000003,
+            394.84900000000005,
+            0.0
+         ],
+         "xaxis": [
+            0.4075823549400227,
+            0.9131684532119719,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131684532119719,
+            -0.4075823549400227,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131684532119719,
+         -0.4075823549400227,
+         0.0
+      ],
+      "point": [
+         178.57100000000003,
+         394.84900000000005,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "90": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075823549400143,
+            -0.9131684532119757,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119757,
+            0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119757,
+         0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         247.7,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "91": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.7,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.4075823549400143,
+            -0.9131684532119757,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131684532119757,
+            0.4075823549400143,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131684532119757,
+         0.4075823549400143,
+         0.0
+      ],
+      "point": [
+         247.7,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "92": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -181.809,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "yaxis": [
+            0.0,
+            1.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.0,
+         1.0,
+         0.0
+      ],
+      "point": [
+         -181.809,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "93": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -181.809,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "yaxis": [
+            0.0,
+            1.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.0,
+         1.0,
+         0.0
+      ],
+      "point": [
+         -181.809,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "94": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "yaxis": [
+            0.0,
+            1.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.0,
+         1.0,
+         0.0
+      ],
+      "point": [
+         -247.9,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "95": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            -249.855,
+            0.0
          ],
          "xaxis": [
             0.0,
@@ -2388,16 +4108,102 @@
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
          1.0,
          0.0,
          0.0
       ],
       "point": [
-         -150.0,
-         -150.0,
-         1.5
+         -247.9,
+         -249.855,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "96": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -181.809,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "yaxis": [
+            0.0,
+            1.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.0,
+         1.0,
+         0.0
+      ],
+      "point": [
+         -181.809,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "97": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -181.809,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ],
+         "yaxis": [
+            0.0,
+            1.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.0,
+         1.0,
+         0.0
+      ],
+      "point": [
+         -181.809,
+         -397.9,
+         10.0
       ],
       "up_vector": [
          0.0,
@@ -2407,7 +4213,2200 @@
       "velocity": 13.0,
       "wait_time": null
    },
-   "56": {
+   "98": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         -80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "99": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            -80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "100": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            -230.145,
+            0.0
+         ],
+         "xaxis": [
+            -0.40759379053331757,
+            -0.9131633489790763,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790763,
+            0.40759379053331757,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790761,
+         0.4075937905333175,
+         0.0
+      ],
+      "point": [
+         -247.9,
+         -230.145,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "101": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            70.14499999999998,
+            0.0
+         ],
+         "xaxis": [
+            0.40761010725227964,
+            -0.91315606577725,
+            0.0
+         ],
+         "yaxis": [
+            -0.91315606577725,
+            -0.40761010725227964,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131560657772498,
+         -0.4076101072522796,
+         0.0
+      ],
+      "point": [
+         -247.9,
+         70.14499999999998,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "102": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            -80.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         -80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "103": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            -80.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         -80.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "104": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "105": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "106": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            89.85500000000002,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075937905333195,
+            -0.9131633489790754,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790754,
+            0.4075937905333195,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790754,
+         0.4075937905333195,
+         0.0
+      ],
+      "point": [
+         -247.9,
+         89.85500000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "107": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -247.9,
+            390.145,
+            0.0
+         ],
+         "xaxis": [
+            0.40761010725228347,
+            -0.9131560657772482,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131560657772482,
+            -0.40761010725228347,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131560657772482,
+         -0.40761010725228347,
+         0.0
+      ],
+      "point": [
+         -247.9,
+         390.145,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "108": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            240.0,
+            0.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "109": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -180.87099999999998,
+            240.0,
+            10.0
+         ],
+         "xaxis": [
+            -0.40759379053332384,
+            -0.9131633489790734,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131633489790734,
+            0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131633489790734,
+         0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         -180.87099999999998,
+         240.0,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "110": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -110.38,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.407701561025439,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.407701561025439,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.407701561025439,
+         0.0
+      ],
+      "point": [
+         -110.38,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "111": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -110.38,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.407701561025439,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.407701561025439,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.407701561025439,
+         0.0
+      ],
+      "point": [
+         -110.38,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "112": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -178.571,
+            245.15099999999995,
+            0.0
+         ],
+         "xaxis": [
+            -0.40761879804235224,
+            0.9131521863755834,
+            0.0
+         ],
+         "yaxis": [
+            0.9131521863755834,
+            0.40761879804235224,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755833,
+         0.4076187980423522,
+         0.0
+      ],
+      "point": [
+         -178.571,
+         245.15099999999995,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "113": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -246.763,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40761879804235984,
+            0.9131521863755799,
+            0.0
+         ],
+         "yaxis": [
+            0.9131521863755799,
+            0.40761879804235984,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755798,
+         0.4076187980423598,
+         0.0
+      ],
+      "point": [
+         -246.763,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "114": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -110.38,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.407701561025439,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.407701561025439,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.407701561025439,
+         0.0
+      ],
+      "point": [
+         -110.38,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "115": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -110.38,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.407701561025439,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.407701561025439,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.407701561025439,
+         0.0
+      ],
+      "point": [
+         -110.38,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "116": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -38.952,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.40753107375113473,
+            -0.9131913402607623,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131913402607623,
+            -0.40753107375113473,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131913402607622,
+         -0.4075310737511347,
+         0.0
+      ],
+      "point": [
+         -38.952,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "117": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -38.952,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.40753107375113473,
+            -0.9131913402607623,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131913402607623,
+            -0.40753107375113473,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131913402607622,
+         -0.4075310737511347,
+         0.0
+      ],
+      "point": [
+         -38.952,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "118": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -175.334,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804235984,
+            0.9131521863755799,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131521863755799,
+            -0.40761879804235984,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755798,
+         -0.4076187980423598,
+         0.0
+      ],
+      "point": [
+         -175.334,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "119": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -107.143,
+            -245.151,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804235984,
+            0.9131521863755799,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131521863755799,
+            -0.40761879804235984,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755798,
+         -0.4076187980423598,
+         0.0
+      ],
+      "point": [
+         -107.143,
+         -245.151,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "120": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -38.952,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.40753107375113473,
+            -0.9131913402607623,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131913402607623,
+            -0.40753107375113473,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131913402607622,
+         -0.4075310737511347,
+         0.0
+      ],
+      "point": [
+         -38.952,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "121": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            -38.952,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.40753107375113473,
+            -0.9131913402607623,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131913402607623,
+            -0.40753107375113473,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131913402607622,
+         -0.4075310737511347,
+         0.0
+      ],
+      "point": [
+         -38.952,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "122": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            32.476999999999975,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         32.476999999999975,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "123": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            32.476999999999975,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         32.476999999999975,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "124": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -35.714,
+            245.15099999999995,
+            0.0
+         ],
+         "xaxis": [
+            -0.40761879804235224,
+            0.9131521863755834,
+            0.0
+         ],
+         "yaxis": [
+            0.9131521863755834,
+            0.40761879804235224,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755833,
+         0.4076187980423522,
+         0.0
+      ],
+      "point": [
+         -35.714,
+         245.15099999999995,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "125": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -103.906,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40761879804235984,
+            0.9131521863755799,
+            0.0
+         ],
+         "yaxis": [
+            0.9131521863755799,
+            0.40761879804235984,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755798,
+         0.4076187980423598,
+         0.0
+      ],
+      "point": [
+         -103.906,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "126": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            32.476999999999975,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         32.476999999999975,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "127": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            32.476999999999975,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         32.476999999999975,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "128": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            103.906,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.4076801134601801,
+            -0.9131248135326817,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326817,
+            -0.4076801134601801,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326817,
+         -0.4076801134601801,
+         0.0
+      ],
+      "point": [
+         103.906,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "129": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            103.906,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.4076801134601801,
+            -0.9131248135326817,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326817,
+            -0.4076801134601801,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326817,
+         -0.4076801134601801,
+         0.0
+      ],
+      "point": [
+         103.906,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "130": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            -32.477000000000004,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804235984,
+            0.9131521863755799,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131521863755799,
+            -0.40761879804235984,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755798,
+         -0.4076187980423598,
+         0.0
+      ],
+      "point": [
+         -32.477000000000004,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "131": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            35.714,
+            -245.151,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804236406,
+            0.913152186375578,
+            -0.0
+         ],
+         "yaxis": [
+            0.913152186375578,
+            -0.40761879804236406,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.913152186375578,
+         -0.40761879804236406,
+         0.0
+      ],
+      "point": [
+         35.714,
+         -245.151,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "132": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            103.906,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.4076801134601801,
+            -0.9131248135326817,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326817,
+            -0.4076801134601801,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326817,
+         -0.4076801134601801,
+         0.0
+      ],
+      "point": [
+         103.906,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "133": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            103.906,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.4076801134601801,
+            -0.9131248135326817,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326817,
+            -0.4076801134601801,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326817,
+         -0.4076801134601801,
+         0.0
+      ],
+      "point": [
+         103.906,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "134": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            175.334,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         175.334,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "135": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            175.334,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         175.334,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "136": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            107.14299999999997,
+            245.15099999999995,
+            0.0
+         ],
+         "xaxis": [
+            -0.4076187980423479,
+            0.9131521863755853,
+            0.0
+         ],
+         "yaxis": [
+            0.9131521863755853,
+            0.4076187980423479,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131521863755853,
+         0.4076187980423479,
+         0.0
+      ],
+      "point": [
+         107.14299999999997,
+         245.15099999999995,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "137": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            38.952,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40761879804236406,
+            0.913152186375578,
+            0.0
+         ],
+         "yaxis": [
+            0.913152186375578,
+            0.40761879804236406,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.913152186375578,
+         0.40761879804236406,
+         0.0
+      ],
+      "point": [
+         38.952,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "138": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            175.334,
+            397.9,
+            0.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         175.334,
+         397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "139": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            175.334,
+            397.9,
+            10.0
+         ],
+         "xaxis": [
+            -0.40770156102543903,
+            -0.9131152376000634,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131152376000634,
+            0.40770156102543903,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131152376000634,
+         0.40770156102543903,
+         0.0
+      ],
+      "point": [
+         175.334,
+         397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "140": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            246.76299999999998,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.4076801134601717,
+            -0.9131248135326855,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326855,
+            -0.4076801134601717,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326854,
+         -0.40768011346017163,
+         0.0
+      ],
+      "point": [
+         246.76299999999998,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "141": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            246.76299999999998,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.4076801134601717,
+            -0.9131248135326855,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326855,
+            -0.4076801134601717,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326854,
+         -0.40768011346017163,
+         0.0
+      ],
+      "point": [
+         246.76299999999998,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "142": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            110.38,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804236406,
+            0.913152186375578,
+            -0.0
+         ],
+         "yaxis": [
+            0.913152186375578,
+            -0.40761879804236406,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.913152186375578,
+         -0.40761879804236406,
+         0.0
+      ],
+      "point": [
+         110.38,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "143": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            178.57100000000003,
+            -245.151,
+            0.0
+         ],
+         "xaxis": [
+            0.40761879804236406,
+            0.913152186375578,
+            -0.0
+         ],
+         "yaxis": [
+            0.913152186375578,
+            -0.40761879804236406,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.913152186375578,
+         -0.40761879804236406,
+         0.0
+      ],
+      "point": [
+         178.57100000000003,
+         -245.151,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "144": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            246.76299999999998,
+            -397.9,
+            0.0
+         ],
+         "xaxis": [
+            0.4076801134601717,
+            -0.9131248135326855,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326855,
+            -0.4076801134601717,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326854,
+         -0.40768011346017163,
+         0.0
+      ],
+      "point": [
+         246.76299999999998,
+         -397.9,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "145": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            246.76299999999998,
+            -397.9,
+            10.0
+         ],
+         "xaxis": [
+            0.4076801134601717,
+            -0.9131248135326855,
+            0.0
+         ],
+         "yaxis": [
+            -0.9131248135326855,
+            -0.4076801134601717,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -0.9131248135326854,
+         -0.40768011346017163,
+         0.0
+      ],
+      "point": [
+         246.76299999999998,
+         -397.9,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "146": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -89.85500000000002,
+            10.0
+         ],
+         "xaxis": [
+            0.4075937905333152,
+            0.9131633489790772,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            -0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         -0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -89.85500000000002,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "147": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -89.85500000000002,
+            0.0
+         ],
+         "xaxis": [
+            0.4075937905333152,
+            0.9131633489790772,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            -0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         -0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -89.85500000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "148": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -390.145,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075937905333152,
+            0.9131633489790772,
+            0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -390.145,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "149": {
       "attributes": {},
       "blend_radius": 10.0,
       "closest_support_pt": null,
@@ -2415,9 +6414,525 @@
       "extruder_toggle": true,
       "frame": {
          "point": [
-            -150.0,
-            150.0,
-            1.5
+            180.87099999999998,
+            -240.0,
+            0.0
+         ],
+         "xaxis": [
+            0.40759379053332384,
+            0.9131633489790734,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790734,
+            -0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790734,
+         -0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         180.87099999999998,
+         -240.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "150": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -89.85500000000002,
+            0.0
+         ],
+         "xaxis": [
+            0.4075937905333152,
+            0.9131633489790772,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            -0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         -0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -89.85500000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "151": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -89.85500000000002,
+            10.0
+         ],
+         "xaxis": [
+            0.4075937905333152,
+            0.9131633489790772,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            -0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         -0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -89.85500000000002,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "152": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            45.351,
+            10.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         45.351,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "153": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            45.351,
+            0.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         45.351,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "154": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            -70.14499999999998,
+            0.0
+         ],
+         "xaxis": [
+            -0.4075937905333152,
+            0.9131633489790772,
+            0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         -70.14499999999998,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "155": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            180.87099999999998,
+            80.0,
+            0.0
+         ],
+         "xaxis": [
+            0.40759379053332384,
+            0.9131633489790734,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790734,
+            -0.40759379053332384,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790734,
+         -0.40759379053332384,
+         0.0
+      ],
+      "point": [
+         180.87099999999998,
+         80.0,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "156": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            230.14499999999998,
+            0.0
+         ],
+         "xaxis": [
+            0.4075937905333152,
+            0.9131633489790772,
+            -0.0
+         ],
+         "yaxis": [
+            0.9131633489790772,
+            -0.4075937905333152,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         0.9131633489790771,
+         -0.4075937905333151,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         230.14499999999998,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.2
+   },
+   "157": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            45.351,
+            0.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         45.351,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "158": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            45.351,
+            10.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         45.351,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "159": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            249.85500000000002,
+            10.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         249.85500000000002,
+         10.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": null
+   },
+   "160": {
+      "attributes": {},
+      "blend_radius": 0.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            249.85500000000002,
+            0.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         249.85500000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 1.2
+   },
+   "161": {
+      "attributes": {},
+      "blend_radius": 10.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": true,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            397.9,
+            0.0
          ],
          "xaxis": [
             1.0,
@@ -2431,16 +6946,16 @@
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
          0.0,
          -1.0,
          0.0
       ],
       "point": [
-         -150.0,
-         150.0,
-         1.5
+         247.89999999999998,
+         397.9,
+         0.0
       ],
       "up_vector": [
          0.0,
@@ -2450,83 +6965,40 @@
       "velocity": 13.0,
       "wait_time": null
    },
-   "57": {
+   "162": {
       "attributes": {},
-      "blend_radius": 10.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": true,
       "frame": {
          "point": [
-            150.0,
-            150.0,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
+            181.80900000000003,
+            397.9,
             0.0
          ],
-         "yaxis": [
-            -1.0,
+         "xaxis": [
+            1.0,
             0.0,
+            -0.0
+         ],
+         "yaxis": [
+            0.0,
+            -1.0,
             0.0
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
-         -1.0,
          0.0,
+         -1.0,
          0.0
       ],
       "point": [
-         150.0,
-         150.0,
-         1.5
-      ],
-      "up_vector": [
-         0.0,
-         0.0,
-         1.0
-      ],
-      "velocity": 13.0,
-      "wait_time": null
-   },
-   "58": {
-      "attributes": {},
-      "blend_radius": 0.0,
-      "closest_support_pt": null,
-      "distance_to_support": null,
-      "extruder_toggle": false,
-      "frame": {
-         "point": [
-            150.0,
-            -80.76922512618762,
-            1.5
-         ],
-         "xaxis": [
-            0.0,
-            -1.0,
-            0.0
-         ],
-         "yaxis": [
-            -1.0,
-            0.0,
-            0.0
-         ]
-      },
-      "is_feasible": true,
-      "layer_height": 1.5,
-      "mesh_normal": [
-         -1.0,
-         0.0,
+         181.80900000000003,
+         397.9,
          0.0
-      ],
-      "point": [
-         150.0,
-         -80.76922512618762,
-         1.5
       ],
       "up_vector": [
          0.0,
@@ -2536,17 +7008,17 @@
       "velocity": 13.0,
       "wait_time": 0.2
    },
-   "59": {
+   "163": {
       "attributes": {},
-      "blend_radius": 3.0,
+      "blend_radius": 0.0,
       "closest_support_pt": null,
       "distance_to_support": null,
       "extruder_toggle": false,
       "frame": {
          "point": [
-            150.0,
-            -80.76922512618762,
-            11.5
+            247.89999999999998,
+            249.85500000000002,
+            0.0
          ],
          "xaxis": [
             0.0,
@@ -2560,16 +7032,59 @@
          ]
       },
       "is_feasible": true,
-      "layer_height": 1.5,
+      "layer_height": 2.0,
       "mesh_normal": [
          -1.0,
          0.0,
          0.0
       ],
       "point": [
-         150.0,
-         -80.76922512618762,
-         11.5
+         247.89999999999998,
+         249.85500000000002,
+         0.0
+      ],
+      "up_vector": [
+         0.0,
+         0.0,
+         1.0
+      ],
+      "velocity": 13.0,
+      "wait_time": 0.7
+   },
+   "164": {
+      "attributes": {},
+      "blend_radius": 3.0,
+      "closest_support_pt": null,
+      "distance_to_support": null,
+      "extruder_toggle": false,
+      "frame": {
+         "point": [
+            247.89999999999998,
+            249.85500000000002,
+            10.0
+         ],
+         "xaxis": [
+            0.0,
+            -1.0,
+            0.0
+         ],
+         "yaxis": [
+            -1.0,
+            0.0,
+            0.0
+         ]
+      },
+      "is_feasible": true,
+      "layer_height": 2.0,
+      "mesh_normal": [
+         -1.0,
+         0.0,
+         0.0
+      ],
+      "point": [
+         247.89999999999998,
+         249.85500000000002,
+         10.0
       ],
       "up_vector": [
          0.0,
