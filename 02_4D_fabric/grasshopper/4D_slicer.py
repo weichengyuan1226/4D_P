@@ -107,9 +107,9 @@ def main():
     add_safety_printpoints(print_organizer, z_hop=10.0)
     set_linear_velocity_constant(print_organizer, v=13.0)
     set_blend_radius(print_organizer, d_fillet=10.0)
-    set_wait_time_on_sharp_corners(print_organizer,threshold=.5 * math.pi, wait_time=.1 ) 
-    set_wait_time_based_on_extruder_toggle(print_organizer, "wait_before_extrusion", wait_time =0.2) 
-    set_wait_time_based_on_extruder_toggle(print_organizer, "wait_after_extrusion" , wait_time =0.2)
+    set_wait_time_on_sharp_corners(print_organizer,threshold=.5 * math.pi, wait_time=.2 ) 
+    set_wait_time_based_on_extruder_toggle(print_organizer, "wait_before_extrusion", wait_time =0.3) 
+    set_wait_time_based_on_extruder_toggle(print_organizer, "wait_after_extrusion" , wait_time =0.4)
     # ==========================================================================
     # Prints out the info of the PrintOrganizer
     # ==========================================================================
